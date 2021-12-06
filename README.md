@@ -1,6 +1,6 @@
 # HydroCore
 
-![CI](https://github.com/hydrocore/hydrocore.github.io/images/HydroCore_Eng.png)
+![CI](C:\Users\bigbang\Documents\hydrocore.github.io/images/HydroCore_Eng.png)
 
 ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
 
