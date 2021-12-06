@@ -1,7 +1,0 @@
----
-sort: 1
----
-
-# 개요
-
-Distributed models represent watersheds using a network of numerous, uniform calculation units to provide spatially detailed and consistent evaluations across the watershed. However, these models have a disadvantage in general requiring a high computing cost. Semi-distributed models, on the other hand, delineate watersheds using a simplified network of non-uniform calculation units requiring a much lower computing cost than distributed models. Employing a simplified network of non-uniform units, however, semi-distributed models cannot but have limitations in spatially-consistent simulations of hydrogeochemical processes and are often not favoured for such a task as identifying critical source areas within a watershed. Aiming to overcome these shortcomings of both groups of models, a hybrid watershed model STREAM (Spatio-Temporal River-basin Ecohydrology Analysis Model) was developed in this study. Like a distributed model, STREAM divides a watershed into square grid cells of a same size each of which may have a different set of hydrogeochemical parameters reflecting the spatial heterogeneity. Like many semi-distributed models, STREAM groups individual cells of similar hydrogeochemical properties into representative cells for which real computations of the model are carried out. With this hybrid structure, STREAM requires a relatively small computational cost although it still keeps the critical advantage of distributed models.
