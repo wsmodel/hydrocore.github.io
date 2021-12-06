@@ -21,4 +21,4 @@
 
 ## The license
 
-The theme is available as open souC:\Users\bigbang\Documents\hydrocore.github.io\_config.ymlrce under the terms of the MIT License
+The theme is available as open source under the terms of the MIT License
