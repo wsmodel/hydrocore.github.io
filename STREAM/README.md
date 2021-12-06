@@ -2,10 +2,8 @@
 sort: 1
 ---
 
-# Test Documentation
+# STREAM
+# (Spatio-Temporal River-basin Eco-hydrology Analysis Model)
 
-```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
-```
 
 {% include list.liquid all=true %}
