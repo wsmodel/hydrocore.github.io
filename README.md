@@ -10,11 +10,13 @@
 
 ### 개발 유역모델
 
-- STREAM
-- CAMEL
-- SNIPE
-- REDPOLL
-- ANNE
+- CAMEL (Chemicals, Agricultural Management and Erosion Losses)
+- STREAM (Spatio-Temporal River-basin Eco-hydrology Analysis Model)
+- SNIPE (Subsurface NItrogen Pollution Evaluation)
+- REDPOLL REDPOLL (Regional Estimation of Diffuse POLlution Loads)
+- ANNE (ANN for ENVIRONMENT)
+
+![Models](./images/models.jpg)
 
 ### 연락처
 
