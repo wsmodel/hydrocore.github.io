@@ -7,7 +7,8 @@ sort: 2
 
 - 완전 분포형 유역모델 지향
 - 물리식에 기초한 개별 프로세스의 명시적 표현
-- 지표수 및 지하수 통합 모의, 소규모 유역 수문/수질 분석 및 평가에 적합
+- 지표수 및 지하수 통합 모의
+- 소규모 유역 수문/수질 분석 및 평가에 적합
 
 ![camel_watershedDividing](../images/camel_watershedDividing.JPG)
 
