@@ -23,5 +23,5 @@
 - 주소	153-704 서울특별시 금천구 가산디지털1로 219 벽산디지털밸리6차 1104호
 - TEL	02-2627-3570
 - FAX	02-2627-3579
-- EMAIL	admin@hydrocore.co.kr
+- EMAIL	
 - WEB	www.hydrocore.co.kr
