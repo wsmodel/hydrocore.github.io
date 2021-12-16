@@ -1,3 +1,0 @@
-# STREAM
-
-source: `{{ page.path }}`
